@@ -1,0 +1,17 @@
+h2 {
+	text-align: center;
+}
+
+header-table {
+	width: 100%
+}
+
+table, th, td {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	background-color: #DDDDDD;
+/*	width: 65%;*/
+}
+
+
